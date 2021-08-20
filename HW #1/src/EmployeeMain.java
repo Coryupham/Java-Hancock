@@ -59,7 +59,7 @@ public class EmployeeMain {
             //System.out.println("  " + e3.getName() + "         "+ e3.getIdNumber() + "     " + e3.getDepartment() + "     " + e3.getPosition());
             System.out.println(e1);
             System.out.println(e2);
-            System.out.println(e3);p
+            System.out.println(e3);
 
     }
 }
