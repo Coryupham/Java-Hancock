@@ -6,13 +6,8 @@ public class SmartPhone extends Phone{
         super();
     }
     public SmartPhone(String name, String number , String email){
-        super(name);
+        super(name, Long.parseLong(number));
         this.email = email;
-        numb = number;
-    }
-    public long getNumber(){
-        long l = Long.parseLong( numb );
-        return l ;
     }
 
     public String toString(){
