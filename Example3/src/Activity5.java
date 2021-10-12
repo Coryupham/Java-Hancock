@@ -2,12 +2,13 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.File;
 
 public class Activity5 extends JFrame implements ActionListener {
 
     JTextArea area;
 
-    public Activity5(){
+    public Activity5() {
         this.setTitle("Ordering Console");
         this.setSize(400, 600);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
@@ -54,15 +55,15 @@ private double cost = 0;
 
         if (label.equals("Burger $3")) {
             cost += 3;
-            result += "Burger" + String.format("%20s","$") + String.format("%.2f\n", cost);
+            result += "Burger" + String.format("%20.2f\n", cost);//String.format("%20s","$") + String.format("%.2f\n", cost);
             area.append(result);
         } else if (label.equals("Salad $2")) {
             cost += 2;
-            result += "Salad" + String.format("%21s","$") + String.format("%.2f\n", cost);
+            result += "Salad" + String.format("%21.2f\n", cost);//String.format("%21s","$") + String.format("%.2f\n", cost);
             area.append(result);
         } else if (label.equals("Soda $1")) {
             cost += 1;
-            result += "Soda" + String.format("%22s","$") + String.format("%.2f\n", cost);
+            result += "Soda" + String.format("%22.2f\n", cost); //String.format("%22s","$") + String.format("%.2f\n", cost);
             area.append(result);
         } else {
             System.out.println("Error: What is that button?");

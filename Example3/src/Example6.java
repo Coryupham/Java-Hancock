@@ -1,5 +1,8 @@
 import javax.swing.*;
 import java.awt.*;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
 
 public class Example6 extends JFrame {
 
@@ -26,11 +29,40 @@ public class Example6 extends JFrame {
         ////////////////////////////////////
 
        JTextArea area = new JTextArea();
+       area.setLineWrap(true);
+       JScrollPane scroller = new JScrollPane(area);
+       //scroller.add(area);
 
-        area.append("Can you ");
-        area.append("see this ");
-        area.append("goodbye.");
-        super.add(area);
+       super.add(scroller);
+
+
+
+
+        ////////////////////////////////////////////
+
+        JPanel south = new JPanel();
+        JButton open = new JButton("Open");
+        south.add(open);
+        super.add(south, BorderLayout.SOUTH);
+        open.setFont(new Font("SansSerif", Font.BOLD, 100));
+
+        open.addActionListener(event -> {
+            JFileChooser ch = new JFileChooser();
+            int approve = ch.showOpenDialog(this);
+            if (approve == JFileChooser.APPROVE_OPTION){
+                File f = ch.getSelectedFile();
+                try{
+                    Scanner inputFile= new Scanner(f);
+                    while(inputFile.hasNextLine()){
+                        String line = inputFile.nextLine();
+                        area.append(line + "\n");
+                    }
+
+                }catch (FileNotFoundException e){
+                    System.out.println("Could not find file");
+                }
+            }
+        });
     }
 
     public static void main(String[] args) {
