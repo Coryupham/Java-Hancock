@@ -41,11 +41,12 @@ public class WordList
     //Call your search method here!
     //Sort.bubbleSort(data);
     //Sort.selectionSort(data);
-    Sort.insertionSort(data);
+    //Sort.insertionSort(data);
+      Sort.quickSort(data);
 int counter = 0;
     for (String word : data)
     {
-      //System.out.println(word);
+      System.out.println(word);
       counter++;
     }
     System.out.println(counter);

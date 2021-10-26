@@ -86,4 +86,31 @@ public class Sort {
 //        System.out.println("Number of swaps: " + numSwaps);
     }
 
+    public static int partition(ArrayList<String> data, int start, int end){
+        int mid = (start + end) /2; //integer math: no fractions
+        String pivotValue = data.get(mid);
+        swap(data, start, mid);
+        int endOfList = start;
+
+        for(int x = start + 1; x <= end; x++){
+            if(data.get(x).compareToIgnoreCase(pivotValue) <= 0){
+                endOfList++;
+                swap(data, x, endOfList);
+            }
+        }
+        swap(data, start, endOfList); // move pivot to final spot
+        return endOfList;
+    }
+
+    public static void quickSort (ArrayList<String> data, int start, int end){
+        if (start < end){ // if we actually have work to do then partition
+            int positionOfElementThatIsNowSorted = partition(data, start, end);
+            quickSort(data, start, positionOfElementThatIsNowSorted - 1);
+            quickSort(data, positionOfElementThatIsNowSorted + 1, end);
+        }
+    }
+    public static void quickSort(ArrayList<String> data){
+        quickSort(data, 0, data.size() - 1);
+    }
+
 }
