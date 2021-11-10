@@ -3,6 +3,9 @@ import java.util.Collections;
 
 public class GenericSort {
 
+  //bubble sort that can sort any item that extends the Comparable class
+  //as long as you have a compareTo method and you implement the compare to interface in your class you will be
+  //good to go!
   public static <T extends Comparable<T>> void bubbleSort(ArrayList<String> data) {
     for (int end = data.size() - 1; end >= 1; end--)
       for (int current = 0; current <= end - 1; current++)
