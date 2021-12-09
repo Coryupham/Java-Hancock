@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41df7795-2950-4d71-9513-52612807b3e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Hackintosh/src/Client3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/LinkedLists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/out/production/LinkedLists/Example1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/out/production/LinkedLists/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/out/production/LinkedLists/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/src/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/src/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackintosh/out/production/Hackintosh/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hackintosh/out/production/Hackintosh/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackintosh/out/production/Hackintosh/Client2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hackintosh/out/production/Hackintosh/Client2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackintosh/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hackintosh/src/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackintosh/src/Client2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hackintosh/src/Client2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="216yccllZaVmIL5So2cCfW5keNg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41df7795-2950-4d71-9513-52612807b3e2" name="Changes" comment="" />
+      <created>1637275912646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637275912646</updated>
+    </task>
+    <servers />
+  </component>
+</project>

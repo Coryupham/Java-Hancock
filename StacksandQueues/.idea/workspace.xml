@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fece0fdd-b9bd-4d7b-ada0-45c99117e3fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Hackintosh/src/Client3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/LinkedLists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/out/production/LinkedLists/Example1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/out/production/LinkedLists/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/out/production/LinkedLists/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/src/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedLists/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/PS11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/out/production/PS11/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/out/production/PS11/MyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/out/production/PS11/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/out/production/PS11/TestBench.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/src/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/src/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/src/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/src/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/src/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/src/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/src/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PS11/src/TestBench.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackintosh/out/production/Hackintosh/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hackintosh/out/production/Hackintosh/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackintosh/out/production/Hackintosh/Client2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hackintosh/out/production/Hackintosh/Client2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackintosh/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hackintosh/src/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackintosh/src/Client2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hackintosh/src/Client2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21iWQpURfpJhkze7vYYkCs9RfC1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fece0fdd-b9bd-4d7b-ada0-45c99117e3fb" name="Changes" comment="" />
+      <created>1638424374609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638424374609</updated>
+    </task>
+    <servers />
+  </component>
+</project>
